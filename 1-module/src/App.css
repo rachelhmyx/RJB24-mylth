@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  width: 500px;
+  height: 800px;
+  margin: 50px auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.btn {
+  line-height: 30px;
+  border: none;
+  border-radius: 5px ;
+  background-color: blue;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(71, 71, 241);
+}
+
+
